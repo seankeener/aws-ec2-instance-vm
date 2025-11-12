@@ -29,7 +29,7 @@ This lab demonstrates how to create and access a basic Windows virtual machine u
 ### 4. Connect via RDP
 - Copied the decrypted **Administrator password**.
 - Used **Remote Desktop Connection (RDP)** on my local machine.
-- Entered the **public IPv4 address** and **Administrator credentials**.
+- Entered the **Administrator credentials**.
 - Successfully logged in to the Windows EC2 instance.
 
 ## Verification
