@@ -1,3 +1,7 @@
+
+# Watch me build the lab HERE
+https://www.loom.com/share/fa2274b192cb4ae7a68be8e5f8fbae68
+
 # AWS EC2 Windows VM Lab
 
 ## Overview
