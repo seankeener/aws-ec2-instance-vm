@@ -1,4 +1,4 @@
-# AWS EC2 Windows Lab
+# AWS EC2 Windows VM Lab
 
 ## Overview
 This lab demonstrates how to create and access a basic Windows virtual machine using Amazon EC2.
