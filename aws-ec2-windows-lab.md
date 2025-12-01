@@ -17,6 +17,7 @@ This lab demonstrates how to create and access a basic Windows virtual machine u
 - **Network Settings:** Default VPC, Auto-assign public IP enabled  
 - **Storage:** Default settings  
 - **Security Group:** Allowed RDP (port 3389) inbound from my IP address  
+<img width="653" height="477" alt="image" src="https://github.com/user-attachments/assets/254ad6f1-ff7f-416c-8b8e-93f03af68ba4" />
 
 ### 2. Launch the Instance
 - Clicked **Launch Instance** to deploy the VM.
